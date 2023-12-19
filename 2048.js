@@ -8,12 +8,6 @@ window.onload = function() {
 }
 
 function setGame() {
-    // board = [
-    //     [2, 2, 2, 2],
-    //     [2, 2, 2, 2],
-    //     [4, 4, 8, 8],
-    //     [4, 4, 8, 8]
-    // ];
 
     board = [
         [0, 0, 0, 0],
